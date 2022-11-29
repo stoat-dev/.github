@@ -4,4 +4,4 @@ Turn PR comments into developer dashboards with templating and artifact previews
 
 ---
 
-![comment screenshot](screenshot.png)
+![comment screenshot](profile/screenshot.png)
